@@ -28,6 +28,7 @@
 		E14FF59D257BC8B8009EA8AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E14FF5A4257BC8D2009EA8AD /* nfc-reader-sample.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "nfc-reader-sample.entitlements"; sourceTree = "<group>"; };
 		E14FF5C4257BC98D009EA8AD /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
+		E161DC1F258491110067F25F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +46,7 @@
 		E14FF583257BC8B6009EA8AD = {
 			isa = PBXGroup;
 			children = (
+				E161DC1F258491110067F25F /* README.md */,
 				E14FF58E257BC8B6009EA8AD /* nfc-reader-sample */,
 				E14FF58D257BC8B6009EA8AD /* Products */,
 			);
